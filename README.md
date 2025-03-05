@@ -1,4 +1,4 @@
-# Medical Chatbot - AI-Powered Healthcare Assistant
+# Medical Chatbot
 
 ## 📌 Overview
 This project is a **Medical Chatbot** powered by **Cohere API** and **Pinecone Vector Database** for retrieval-augmented generation (RAG). It helps users with medical-related queries using **LLM-based responses** and relevant document retrieval.
@@ -23,7 +23,7 @@ This project is a **Medical Chatbot** powered by **Cohere API** and **Pinecone V
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/medical-chatbot.git
+git clone https://github.com/kethavathsundar/Medical_Chatbot_GenAI.git
 cd medical-chatbot
 ```
 
@@ -51,7 +51,7 @@ PINECONE_ENV=your_pinecone_environment
 ```bash
 python app.py
 ```
-The application will start at `http://127.0.0.1:5000`
+The application will start at `http://127.0.0.1:8000`
 
 ---
 ## 📚 How It Works
@@ -127,7 +127,7 @@ This project is licensed under the MIT License.
 
 ---
 ## 🙌 Contributors
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **Your Name** - [GitHub Profile](https://github.com/kethavathsundar)
 
 ---
 ## 🎯 Future Improvements
